@@ -33,7 +33,7 @@
   <td>
     
   <td align="right">
-    <img src="https://raw.githubusercontent.com/gist/Gabrielfgomss/6caf0fa71ce2415ca3cf56b73e118833/raw/0893e8ac10d191515840748d1df8f14f7e60a123/githubcard.svg" />
+    <img src="https://raw.githubusercontent.com/gist/Gabrielfgomss/6caf0fa71ce2415ca3cf56b73e118833/raw/03bf6837d45d72510f830c2cd3213ea69a24dd32/githubcard.svg" widht="100%" height="100%"/>
     <p align="center">Contatos</p>
     <div align="center">
       <a href="https://instagram.com/gabrielfgomss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
