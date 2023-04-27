@@ -1,11 +1,11 @@
 <table>
   
 <td align="left"> 
-  <div width="100%">
+<!--   <div width="100%">
     <a href="https://github.com/gabrielfgomss"></a>
     <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Gabrielfgomss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfgomss&layout=compact&langs_count=7&theme=dracula" />
-  </div>
+  </div> -->
   
   <div>
     <h1> :memo: Sobre mim</h1>
