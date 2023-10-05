@@ -1,12 +1,13 @@
   <div>
-    <h1> :memo: Sobre mim</h1>
-    <p >Hi there 👋 eu me chamo Gabriel Gomes e sou um desenvolver Font-end</p>
-    <p>Atualmente estou estudando pela Alura e também me <strong>formando como Front-end developer pela NewTab Academy</strong></p>
-    <p>Meus objetivos estão focados em: desenvolver projetos e praticar minhas habilidades já consolidadas e aprender novas ferramentas, como Angular e Vue</p>
+    <h1> 👨🏻‍💻 Sobre mim </h1>
+    <p >Hi there 👋 eu me chamo Gabriel Gomes e sou um desenvolver Web</p>
+    <p>Atualmente estou estudando pela Alura e também me <strong>formando como desenvolvedor FullStack pela EBAC</strong></p>
+    <p>As minhas principais metas são: aprofundar meus conhecimentos em Next.js para criação Web e dominar mais uma linguagem além do JavaScript com fono para o Back-End</p>
+    <p>Tenho experiência com freela na construção de páginas, além de hoje estar atuando na Workmize</p>
   </div>
  
   <div>
-      <h1> :memo: Linguagens e frameworks que domino</h1>
+      <h1> 💻 Linguagens, frameworks e ferramentas que domino </h1>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width='60' height='60'/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width='60' height='60'/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width='60' height='60'/>
@@ -23,10 +24,13 @@
   </div>
   
   <div>
-      <h1> :memo: Estou aprendendo</h1>
+      <h1> 📚 Estou aprendendo </h1>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width='60' height='60'/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width='60' height='60'/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width='60' height='60'/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='60' height='60'/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width='60' height='60'/>
   <div>
-
+  <div align="center">
+    <h1> Github Stats </h1>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfgomss&show_icons=true&theme=transparent"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfgomss&layout=donut&theme=transparent"/>
+  </div>
