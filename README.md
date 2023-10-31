@@ -2,8 +2,8 @@
     <h1> 👨🏻‍💻 Sobre mim </h1>
     <p >Hi there 👋 eu me chamo Gabriel Gomes e sou um desenvolver Web</p>
     <p>Atualmente estou estudando pela Alura e também me <strong>formando como desenvolvedor FullStack pela EBAC</strong></p>
-    <p>As minhas principais metas são: aprofundar meus conhecimentos em Next.js para criação Web e dominar mais uma linguagem além do JavaScript com fono para o Back-End</p>
-    <p>Tenho experiência com freela na construção de páginas, além de hoje estar atuando na Workmize</p>
+    <p>As minhas principais metas são: aprofundar meus conhecimentos em Next.js para criação Web e dominar mais uma linguagem além do JavaScript com foco para o Back-End</p>
+    <p>Tenho experiência com freela na construção de páginas, além de hoje estar trabalhando na Workmize</p>
   </div>
  
   <div>
