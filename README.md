@@ -1,9 +1,9 @@
   <div>
     <h1> 👨🏻‍💻 Sobre mim </h1>
-    <p >Hi there 👋 eu me chamo Gabriel Gomes e sou um desenvolver Web</p>
-    <p>Atualmente estou estudando na UNIESP e <strong>me em Sistema da InformaçãoC</strong></p>
-    <p>As minhas principais metas são: aprofundar meus conhecimentos em Next.js e aprimorar minhas habilidades no design de software em outra linguagem além de JavScript</p>
-    <p>Atualmente, estou cursando Engenharia de Software na UNIESP e me especializando como desenvolvedor FullStack pela EBAC, onde tenho aprimorado minhas habilidades em tecnologias como React, Node.js, Python, SQL e PostgreSQL.</p>
+    <p >Hi there 👋 eu me chamo Gabriel Gomes e sou um desenvolver Web.</p>
+    <p>Atualmente estou estudando o curso de <strong>Sistema da Informação</strong> na UNIESP.</p>
+    <p>As minhas principais metas são: aprofundar meus conhecimentos em desenvolvimento Front-End e aprimorar minhas habilidades no design de software.</p>
+    <p>Hoje trabalho como desenvolvedor Python para automação de tarefas e também com análise de dados, além de freelancer para projetos Web.</p>
   </div>
  
   <div>
